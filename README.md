@@ -5,8 +5,6 @@
 +[![GitHub stars](https://img.shields.io/github/stars/RansomFuck/xmrig.svg)](https://github.com/RansomFuck/xmrig/stargazers)
 +[![GitHub forks](https://img.shields.io/github/forks/RansomFuck/xmrig.svg)](https://github.com/RansomFuck/xmrig/network)
 
-# Donate to support this f*cking project
-1CK5Jg3tXApiZ8YDaeRp9XEcmruaKVBLVT - bitcoin
 
 ## Mod Features
 * Drop to appdata
